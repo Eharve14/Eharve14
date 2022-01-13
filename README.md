@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric 
-- 👀 I’m an EE, With a BS in CS. 
+- 👀 I’m an EE, With a BS in CS, currently working on a Masters in CS at Johns Hopkins University. 
 - 🌱 I like Embedded systems and vaulnerability analysis. 
 
 <!---
